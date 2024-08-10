@@ -7,6 +7,6 @@ YOLO-Filter-Detection-App is an interactive desktop application that leverages Y
 * Easy Configuration: Load custom YOLO weights, configuration, and class names files.
 
 # Download the YOLO weights, configuration, and class names files:
-# Yolo v3 CFG file: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
-# Yolo v3 Names File https://github.com/pjreddie/darknet/blob/master/data/coco.names
-# Yolo v3 Weights https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+* Yolo v3 CFG file: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+* Yolo v3 Names File https://github.com/pjreddie/darknet/blob/master/data/coco.names
+* Yolo v3 Weights https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
